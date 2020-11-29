@@ -7,7 +7,7 @@ alexbel/conky
 - Clone repo `git clone https://github.com/mesenev/conky.git ~/conky`
 - Copy content of result & scripts folder to ~/.config/conky
 - chmod +x ~/.config/conky/netstat.sh
-- Add `python .config/conky/launcher.py` to your `.xinitrc` or find another way execute launcher.py on start.
+- Add `python .config/conky/launcher.py &` to your `.xinitrc` or find another way execute launcher.py on start.
 - Change stuff to fit your system & needs
 
 ### Conky versions
